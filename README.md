@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitayamaLeo
 - 👀 I’m interested in ...Unity,Python,Golang
-- 🌱 I’m currently learning ...Unity,Golang,Python,Javascript
+- 🌱 I’m currently learning ...kotlin,Javascript
 - 📫 How to reach me ...voupegar91@gmail.com
 
 <!---
